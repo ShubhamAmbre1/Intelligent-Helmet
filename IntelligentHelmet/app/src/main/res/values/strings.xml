@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntelligentHelmet</string>
+
+
+    <string name="signuphere">Don\'t have an account? <u>Sign Up</u></string>
+    <string name="loginhere">Already have an account? <u>Login</u></string>
+
+</resources>
